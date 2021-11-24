@@ -1,3 +1,5 @@
+Парсер чистых результатов выборов 19.09.2021 (исходные данные на сайте были обфусцированы)
+
 ## Requirements
 #### 1. python packages
 pip install -r requirements.txt
